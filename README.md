@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, sou Jéferton, futuro desenvolvedor Front-End
 
-<!--
-**Jeferton/Jeferton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :curly_haired_man: Sou estudante de Front-End
+- :classical_building: Domínio básico de HTML e CSS+Bootstrep
+- 🌱: Estou aprimorando meu conhecimento de Javascript
+- 
+<div>
+  <a href="https://github.com/jeferton/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeferton&show_icons=true&theme=onedark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferton&theme=onedark" />
+  </a>
+</div>
+          
+  
